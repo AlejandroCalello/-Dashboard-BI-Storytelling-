@@ -19,8 +19,7 @@ Principales características:
 - Segmentación por variables relevantes
 - Soporte para decisiones comerciales y operativas
 
-🔗 Acceder al Dashboard:
-https://lookerstudio.google.com/reporting/d42beb3f-754f-4c62-aeb0-e96ca05025fc/page/axuhF  
+🔗 [Ver Dashboard Interactivo](https://lookerstudio.google.com/reporting/d42beb3f-754f-4c62-aeb0-e96ca05025fc/page/axuhF)
 
 ---
 
@@ -34,8 +33,7 @@ Objetivos:
 - Proponer recomendaciones estratégicas
 - Presentar información de manera clara y ejecutiva
 
-🔗 Ver Presentación:
-https://docs.google.com/presentation/d/1nrQvtW9V0EMfrEgIRWQBTKzOwvUr9POUB_V-O-qPdxk/edit?slide=id.p1#slide=id.p1  
+🎥 [Ver Presentación Ejecutiva](https://docs.google.com/presentation/d/1nrQvtW9V0EMfrEgIRWQBTKzOwvUr9POUB_V-O-qPdxk/edit?slide=id.p1#slide=id.p1)
 
 ---
 
@@ -57,4 +55,3 @@ https://docs.google.com/presentation/d/1nrQvtW9V0EMfrEgIRWQBTKzOwvUr9POUB_V-O-qP
 ✔ Pensamiento analítico  
 ✔ Comunicación estratégica  
 ✔ Toma de decisiones basada en datos  
-
